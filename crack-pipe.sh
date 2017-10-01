@@ -5,7 +5,7 @@
 # Name:  crackPipe.sh
 # Authors: Michael Lindsey, Matt Burch
 # Date: 10/31/2015
-# Version: 1.1
+# Version: ALPHA V1.1
 # Description: This script automates three non-optimized brute-forcing commands
 # for cracking a file of hashes with oclHashcat.  It can run all rules in a 
 # directory against all wordlist in another, all rules in a directory against
